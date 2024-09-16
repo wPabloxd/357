@@ -1,5 +1,7 @@
 This is a portfolio version of the project. All the Asset Store assets, sounds, animations, models and textures were excluded.
 
+Play the full game in itch.io: https://pablo3d.itch.io/357
+
 
 Shield: [![CC-BY-NC-ND 4.0][CC-BY-NC-ND-shield]][CC-BY-NC-ND]
 
